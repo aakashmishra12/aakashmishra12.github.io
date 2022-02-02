@@ -14,10 +14,10 @@
   font-family: Poppins-SemiBold;
   src: url(./Poppins/Poppins-SemiBold.ttf);
 }
-@font-face {
+/* @font-face {
   font-family: Rochester-Regular;
   src: url(./Rochester-Regular.ttf);
-}
+} */
 *{
     padding: 0px;
     margin: 0px;
@@ -114,7 +114,7 @@ ul{
     padding: 0 0 2px;
 }
 .lavender_text{
-  font-family: Rochester-Regular;
+  /* font-family: Rochester-Regular; */
   /* font-weight: 400 */
   font-weight: 900;
   color: #000;
@@ -348,7 +348,7 @@ width: 400px;
     font-size: 24px;
     padding: 5px;
     margin-bottom: 30px;
-    font-family: cursive;
+    font-family: Poppins-Medium;
     
 }
 
