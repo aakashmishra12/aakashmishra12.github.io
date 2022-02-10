@@ -388,12 +388,15 @@ width: 400px;
 }
 #instafeed-container{
   display: flex;
+  margin-top: 2rem;
 }
 #instafeed-container a img{
 display: block;
 margin-left: auto;
 margin-right: auto;
 width: 75%;
+margin-top: 1rem;
+margin-bottom: 1rem;
 }
 @media only screen and (max-width: 500px) {
   #instafeed-container{
